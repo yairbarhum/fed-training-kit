@@ -14,4 +14,3 @@ You should not use those parts in production but being aware of them is making y
 
 ## Resources
 * [ES6 Katas](http://es6katas.org/)
-* [JS Wat Talk](https://archive.org/details/wat_destroyallsoftware)
